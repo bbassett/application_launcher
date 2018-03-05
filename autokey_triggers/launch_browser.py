@@ -1,3 +1,3 @@
 # Enter script code
 from subprocess import call
-call(["/home/brandon/.packages/application_launcher/firefox.sh"])
+call(["/home/brandon/.packages/application_launcher/chromium.sh"])
