@@ -1,8 +1,8 @@
 {
-    "usageCount": 165, 
+    "usageCount": 319, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "launch_browser", 
+    "description": "open_downloads", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,9 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "c", 
+        "hotKey": "o", 
         "modifiers": [
-            "<hyper>"
+            "<super>"
         ]
     }, 
     "modes": [
