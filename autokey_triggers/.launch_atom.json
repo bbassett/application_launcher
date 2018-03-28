@@ -1,8 +1,8 @@
 {
-    "usageCount": 67, 
+    "usageCount": 4, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "launch_sublime", 
+    "description": "launch_atom", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -17,9 +17,7 @@
             "<hyper>"
         ]
     }, 
-    "modes": [
-        3
-    ], 
+    "modes": [], 
     "showInTrayMenu": false, 
     "filter": {
         "regex": null, 
