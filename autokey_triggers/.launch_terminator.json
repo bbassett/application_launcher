@@ -1,5 +1,5 @@
 {
-    "usageCount": 9, 
+    "usageCount": 43, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "launch_terminator", 
@@ -12,7 +12,7 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "s", 
+        "hotKey": "t", 
         "modifiers": [
             "<hyper>"
         ]
