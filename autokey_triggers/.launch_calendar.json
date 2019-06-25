@@ -1,5 +1,5 @@
 {
-    "usageCount": 1, 
+    "usageCount": 3, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "launch_calendar", 
@@ -17,9 +17,7 @@
             "<hyper>"
         ]
     }, 
-    "modes": [
-        3
-    ], 
+    "modes": [], 
     "showInTrayMenu": false, 
     "filter": {
         "regex": null, 

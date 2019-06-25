@@ -1,8 +1,8 @@
 {
-    "usageCount": 535, 
+    "usageCount": 513, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "launch_terminal", 
+    "description": "launch_alacritty", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -17,7 +17,9 @@
             "<hyper>"
         ]
     }, 
-    "modes": [], 
+    "modes": [
+        3
+    ], 
     "showInTrayMenu": false, 
     "filter": {
         "regex": null, 

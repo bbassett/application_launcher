@@ -1,8 +1,8 @@
 {
-    "usageCount": 43, 
+    "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "launch_terminator", 
+    "description": "launch_dbeaver", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,7 +12,7 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "t", 
+        "hotKey": "i", 
         "modifiers": [
             "<hyper>"
         ]

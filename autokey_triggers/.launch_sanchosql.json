@@ -1,8 +1,8 @@
 {
-    "usageCount": 535, 
+    "usageCount": 2, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "launch_terminal", 
+    "description": "launch_sanchosql", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,12 +12,14 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "t", 
+        "hotKey": "p", 
         "modifiers": [
             "<hyper>"
         ]
     }, 
-    "modes": [], 
+    "modes": [
+        3
+    ], 
     "showInTrayMenu": false, 
     "filter": {
         "regex": null, 
