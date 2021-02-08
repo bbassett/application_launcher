@@ -1,8 +1,8 @@
 {
-    "usageCount": 1258, 
+    "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "launch_chromium", 
+    "description": "launch_workflowy", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,12 +12,14 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "f", 
+        "hotKey": "w", 
         "modifiers": [
             "<hyper>"
         ]
     }, 
-    "modes": [], 
+    "modes": [
+        3
+    ], 
     "showInTrayMenu": false, 
     "filter": {
         "regex": null, 

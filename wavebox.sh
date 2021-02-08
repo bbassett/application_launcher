@@ -1,8 +1,8 @@
 #!/bin/bash
 
-if wmctrl -l -x  | grep "wavebox.wavebox" > /dev/null
+if wmctrl -l -x  | grep "wavebox.Wavebox" > /dev/null
 then
-    wmctrl -a "wavebox.wavebox" -x
+    wmctrl -a "wavebox.Wavebox" -x
 else
-		/snap/bin/wavebox&
+    /opt/wavebox.io/wavebox/wavebox&
 fi

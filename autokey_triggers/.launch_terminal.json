@@ -1,5 +1,5 @@
 {
-    "usageCount": 535, 
+    "usageCount": 555, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "launch_terminal", 
@@ -12,7 +12,7 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "t", 
+        "hotKey": "a", 
         "modifiers": [
             "<hyper>"
         ]

@@ -1,8 +1,8 @@
 {
-    "usageCount": 1258, 
+    "usageCount": 1, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "launch_chromium", 
+    "description": "brighness_down", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,12 +12,14 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "f", 
+        "hotKey": "-", 
         "modifiers": [
             "<hyper>"
         ]
     }, 
-    "modes": [], 
+    "modes": [
+        3
+    ], 
     "showInTrayMenu": false, 
     "filter": {
         "regex": null, 
